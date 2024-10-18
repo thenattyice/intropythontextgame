@@ -1,7 +1,4 @@
 #Name: Nathan Kimborowicz
-from Scripts.ModuleSixMilestone import current_room
-from Scripts.NameAge import current_year
-
 
 #Function showing the goal of the game and move commands
 def show_instructions():
